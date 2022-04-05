@@ -1,1 +1,1 @@
-Fique claro para futuras vizitas, é o meu primeiro repositório.
+Fique claro para futuras visitas, é o meu primeiro repositório.
