@@ -1,0 +1,39 @@
+body, ul, li, p {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+  font-size: 1.2rem;
+  font-family: Arial;
+}
+
+a {
+  text-decoration: none;
+  color: white
+}
+
+h1 {
+  
+}
+
+.header {
+  background-color: rgb(128, 58, 240);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  padding:20px;
+}
+
+.menu {
+  display:flex
+}
+
+.meni li {
+  margin-right: 10px;
+}
+
+.menu li a {
+  display:block;
+  padding: 10px;
+  background-color: tomato;
+}
